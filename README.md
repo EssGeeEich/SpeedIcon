@@ -1,4 +1,2 @@
 # SpeedIcon
-A toolbar application whose usage is to show your current network speed.
-
-It features a "Statistics" right-click menu, which shows your Top, Average and Cumulative Speeds/Sizes for both Upload and Download.
+Please view the [download page](http://essgeeeich.github.io/SpeedIcon/) for more informations.
